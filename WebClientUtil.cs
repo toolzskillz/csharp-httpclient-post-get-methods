@@ -1,9 +1,8 @@
-﻿using RemitaBillerBillingGateway.Model;
 using System;
 using System.Collections.Specialized;
 using System.Net;
 
-namespace RemitaBillerBillingGateway.Cls
+namespace HTTPUtil
 {
     /// <summary>
     /// 
